@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://joriscaze.github.io/website/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://joriscaze.github.io/website/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://joriscaze.github.io/website/categories/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://joriscaze.github.io/website/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://joriscaze.github.io/website/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://joriscaze.github.io/website/tags/</loc>
   </url>
   
 </urlset>

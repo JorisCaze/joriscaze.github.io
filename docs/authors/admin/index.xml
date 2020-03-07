@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joris Cazé</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://joriscaze.github.io/website/authors/admin/</link>
+      <atom:link href="https://joriscaze.github.io/website/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Joris Cazé</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 - Joris Cazé</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Joris Cazé</title>
-      <link>/authors/admin/</link>
+      <link>https://joriscaze.github.io/website/authors/admin/</link>
     </image>
     
   </channel>
