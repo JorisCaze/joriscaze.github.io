@@ -1,4 +1,4 @@
-# Description 
+# Overview 
 Personnal website hosted with [GitHub Pages](https://docs.github.com/en/pages) available at https://joriscaze.github.io/
 
 Static website is built with [Hugo](https://gohugo.io/) static website generator and the formely *Academic* theme now replaced by [Wowchemy](https://wowchemy.com/).
