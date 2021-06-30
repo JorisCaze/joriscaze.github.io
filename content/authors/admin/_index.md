@@ -72,4 +72,4 @@ user_groups:
 # - Visitors
 ---
 
-I am a first year PhD student working on simulation of compressible multiphasic flows within spacecraft turbopumps.
+I am a 2nd year PhD student working on simulation of compressible multiphasic flows within spacecraft turbopumps.

@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Joris Cazé</title>
+    <title>Authors on Joris Cazé</title>
     <link>https://joriscaze.github.io/website/authors/</link>
-      <atom:link href="https://joriscaze.github.io/website/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 - Joris Cazé</copyright>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Authors</title>
-      <link>https://joriscaze.github.io/website/authors/</link>
-    </image>
+    <description>Recent content in Authors on Joris Cazé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; `{year}` - Joris Cazé</copyright>
+    
+	<atom:link href="https://joriscaze.github.io/website/authors/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
       <link>https://joriscaze.github.io/website/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://joriscaze.github.io/website/authors/admin/</guid>
-      <description>&lt;p&gt;I am a first year PhD student working on simulation of compressible multiphasic flows within spacecraft turbopumps.&lt;/p&gt;
-</description>
+      <description>I am a 2nd year PhD student working on simulation of compressible multiphasic flows within spacecraft turbopumps.</description>
     </item>
     
   </channel>
