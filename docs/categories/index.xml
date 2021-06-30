@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Joris Cazé</title>
-    <link>https://joriscaze.github.io/website/categories/</link>
-      <atom:link href="https://joriscaze.github.io/website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://joriscaze.github.io/categories/</link>
+      <atom:link href="https://joriscaze.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 - Joris Cazé</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Categories</title>
-      <link>https://joriscaze.github.io/website/categories/</link>
+      <link>https://joriscaze.github.io/categories/</link>
     </image>
     
   </channel>
