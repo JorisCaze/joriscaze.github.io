@@ -3,27 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://joriscaze.github.io/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/talk/asme2022/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/talk/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://joriscaze.github.io/authors/admin/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/publication_types/1/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://joriscaze.github.io/authors/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joriscaze.github.io/categories/</loc>
+    <loc>https://joriscaze.github.io/tags/compressible-multiphase-flows/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joriscaze.github.io/</loc>
+    <loc>https://joriscaze.github.io/tags/diffuse-interface-method/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/authors/eric-daniel/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/authors/fabien-petitpas/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/authors/matthieu-queguineur/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/publication/caze2022/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/tags/moving-reference-frame/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/tags/phase-change/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://joriscaze.github.io/publication_types/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/publication/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/authors/sebastien-le-martelot/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://joriscaze.github.io/tags/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/talk/cavitation2022/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/publication_types/2/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/authors/kevin-schmidmayer/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/publication/schmidmayer2021/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/authors/nicolas-favrie/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/tags/relaxation/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joriscaze.github.io/categories/</loc>
   </url>
   
 </urlset>
