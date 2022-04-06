@@ -1,3 +1,5 @@
 # MacOS system files
 .DS_Store
 
+# Auto-generated content
+resources/_gen

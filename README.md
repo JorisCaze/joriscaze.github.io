@@ -7,7 +7,7 @@ For the sake of simplicity I still use the old version of the *Academic* theme, 
 
 # Memento to update website
 
-Clone the repository locally:
+Clone the repository locally
 
 ```
 $ git clone https://github.com/JorisCaze/joriscaze.github.io.git
@@ -15,13 +15,13 @@ $ git clone https://github.com/JorisCaze/joriscaze.github.io.git
 
 To edit the content simply edit the desired markdown file in the *content/* folder.
 
-Once done, you can check your website locally:
+Once done, you can check your website locally
 
 ```
 $ hugo server
 ```
 
-Finally, the final is built under the *docs/* folder:
+Finally, the final is built under the *docs/* folder
 
 ```
 $ hugo

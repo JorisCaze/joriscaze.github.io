@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "tint"
   icon_pack = "fas"
-  name = "Multiphasic compressible flows"
+  name = "Two-phase compressible flows"
   description = ""
 
 [[feature]]
   icon = "fire"
   icon_pack = "fas"
-  name = "Heat transfer"
+  name = "Heat transfer / Phase change"
   description = ""
 
 [[feature]]
@@ -45,9 +45,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "python"
+  icon = "terminal"
   icon_pack = "fab"
-  name = "Python"
+  name = "Python / Bash"
   description = ""
 
 [[feature]]
@@ -59,13 +59,13 @@ subtitle = ""
 [[feature]]
   icon = "shapes"
   icon_pack = "fas"
-  name = "Gmsh"
+  name = "Gmsh / PointWise / Salome"
   description = ""
 
 [[feature]]
   icon = "server"
   icon_pack = "fas"
-  name = "Open-MPI"
+  name = "Open-MPI / Docker"
   description = ""
   
 

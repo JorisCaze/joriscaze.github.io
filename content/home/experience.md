@@ -24,14 +24,14 @@ date_format = "Jan 2006"
   location = "Marseille"
   date_start = "2019-10-01"
   date_end = ""
-  description = """Simulation of multiphasic flows within spacecraft turbopumps.
+  description = """Simulation of multiphase flows within spacecraft turbopumps under the supervision of Eric Daniel and Fabien Petitpas.
   Topics of work include:
-  
-  * C/C++ development on the open-source computational tool [ECOGEN](https://code-mphi.github.io/ECOGEN/)
-  * Study of monophasic/diphasic compressible flow models
-  * Phase change
-  * Cryogenic fluids
-  * Cavitation phenomenon
+
+  * Simulation of the cavitation phenomenon within turbopumps using diffuse interface two-phase flow models.
+  * Adaptation of a two-phase model in mechanical equilibrium for the consideration of rotating geometry elements using the Moving Reference Frame method. ([article]())
+  * Contribution to the development in C/C++ of compressible single-phase/two-phase flow models in the open-source computationnal tool [ECOGEN](https://code-mphi.github.io/ECOGEN/). ([article](https://hal.archives-ouvertes.fr/hal-03387818))
+  * Management of GitLab/[GitHub](https://github.com/code-mphi/ECOGEN) team repositories.
+  * Teaching phase change and numerical simulation of fluid flows at the engineering school Polytech Marseille.
   """
 
 [[experience]]
@@ -41,7 +41,10 @@ date_format = "Jan 2006"
   location = "Marseille"
   date_start = "2019-02-01"
   date_end = "2019-07-31"
-  description = """Simulation of multiphasic flows within spacecraft turbopumps"""
+  description = """Introduction to the simulation of fluid flows within turbopumps.
+  * Simulation of the fluid flow within a dynamic seal of pump.
+  * Development of a tool in C++ to calibrate equation of state parameters with experimental data.
+  """
 
 [[experience]]
   title = "Trainee Engineer (2nd year engineering school)"
@@ -50,8 +53,8 @@ date_format = "Jan 2006"
   location = "Cadarache"
   date_start = "2018-06-04"
   date_end = "2018-08-10"
-  description = """Study and construction of a data set for the simulation of sodium slick fires in a reactor vessel during a severe accident in a sodium-cooled Fast Neutron Reactor. 
-  * Scientific computing tool used: CONTAIN-LMR"""
+  description = """Creation of a dataset for the simulation of sodium slick fires in a reactor vessel during a severe accident in a sodium-cooled Fast Neutron Reactor. 
+  * Scientific computing tool used: CONTAIN-LMR."""
 
 [[experience]]
   title = "Trainee Engineer (1st year engineering school)"
@@ -60,5 +63,5 @@ date_format = "Jan 2006"
   location = "Peypin"
   date_start = "2017-06-01"
   date_end = "2017-06-30"
-  description = """Assembly of transfer and dosing machines for powders and granules for the food and pharmaceutical industries"""
+  description = """Assembly of transfer and dosing machines for powders and granules of the food and pharmaceutical industries."""
 +++

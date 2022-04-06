@@ -20,25 +20,25 @@ organizations:
   url: "https://iusti.cnrs.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational fluid dynamics, compressible multiphase flows and computer science
+bio: My research interests include computational fluid dynamics, compressible two-phase flow and computer science
 
 interests:
 - Computational Fluid Dynamics
-- Compressible multiphase flows
+- Compressible two-phase flow
 - Computer science
 
 education:
   courses:
-  - course: PhD Student in multiphase flows into spacecraft turbopumps
+  - course: PhD Student in multiphase flows within spacecraft turbopumps
     institution: National Center of Spatial Studies (CNES) at IUSTI Laboratory
     year: 2019 (present)
   - course: International exchange semester during MEng 
     institution: University of Québec at Chicoutimi (UQAC, Canada)
     year: 2019 
-  - course: MEng in Mechanics and Energetics
-    institution: Polytech' Marseille Engineering School
+  - course: MEng in Mechanics and Energetics (1st in class)
+    institution: Polytech Marseille Engineering School
     year: 2019
-  - course: French High-School Diploma
+  - course: French High-School Diploma with honors
     institution: High school Philippe de Girard
     year: 2014
 
@@ -72,4 +72,4 @@ user_groups:
 # - Visitors
 ---
 
-I am a 2nd year PhD student working on simulation of compressible multiphasic flows within spacecraft turbopumps.
+I am a 3rd year PhD student working on the simulation of the cavitation phenomenon within spacecraft turbopumps.
