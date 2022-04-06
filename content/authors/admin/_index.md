@@ -20,7 +20,7 @@ organizations:
   url: "https://iusti.cnrs.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational fluid dynamics, compressible two-phase flow and computer science
+bio: My research interests include computational fluid dynamics, compressible two-phase flow and computer science.
 
 interests:
 - Computational Fluid Dynamics
