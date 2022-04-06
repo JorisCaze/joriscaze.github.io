@@ -42,8 +42,8 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = "2019-07-31"
   description = """Introduction to the simulation of fluid flows within turbopumps.
-  * Simulation of the fluid flow within a dynamic seal of pump.
-  * Development of a tool in C++ to calibrate equation of state parameters with experimental data.
+  * Simulation of the fluid flow within a dynamic seal of a pump using the open-source solver [ECOGEN](https://code-mphi.github.io/ECOGEN/).
+  * Development of a [tool](https://github.com/JorisCaze/SG-EOS_Calibration) in C++ to calibrate liquid/vapor equation of state parameters with experimental data.
   """
 
 [[experience]]
