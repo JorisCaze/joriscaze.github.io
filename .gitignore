@@ -3,3 +3,6 @@
 
 # Auto-generated content
 resources/_gen
+
+# Default build folder
+public/

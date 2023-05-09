@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compressible multiphase flows | Joris Cazé</title>
+    <link>https://joriscaze.github.io/tag/compressible-multiphase-flows/</link>
+      <atom:link href="https://joriscaze.github.io/tag/compressible-multiphase-flows/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compressible multiphase flows</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://joriscaze.github.io/media/icon_hu77276c6d52afe5605bb37d6bd94385aa_504_512x512_fill_lanczos_center_3.png</url>
+      <title>Compressible multiphase flows</title>
+      <link>https://joriscaze.github.io/tag/compressible-multiphase-flows/</link>
+    </image>
+    
+    <item>
+      <title>Thesis: Modeling and simulation of the cavitation phenomenon in space engine turbopumps</title>
+      <link>https://joriscaze.github.io/publication/caze2023/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://joriscaze.github.io/publication/caze2023/</guid>
+      <description>&lt;!--
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling and simulation of a turbopump flow: a multiphase approach</title>
+      <link>https://joriscaze.github.io/publication/caze2022/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://joriscaze.github.io/publication/caze2022/</guid>
+      <description>&lt;!--
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling interactions between waves and diffused interfaces</title>
+      <link>https://joriscaze.github.io/publication/schmidmayer2021/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://joriscaze.github.io/publication/schmidmayer2021/</guid>
+      <description>&lt;!--
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
